@@ -1,0 +1,5 @@
+.idea/*
+.idea
+./settings/config.py
+__pycache__/
+./utils/chromedriver
